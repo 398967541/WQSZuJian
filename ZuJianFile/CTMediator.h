@@ -6,7 +6,7 @@
 //  Copyright © 2016年 casa. All rights reserved.
 //
 
-
+#import <UIKit/UIKit.h>
 @interface CTMediator : NSObject
 
 + (instancetype)sharedInstance;
