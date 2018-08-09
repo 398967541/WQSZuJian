@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   # s.authors            = { "ALexTun" => "398967541@qq.com" }
 
 
-  s.source       = { :git => "http://github.com/398967541/WQSZuJian.git", :tag => s.version}
+  s.source       = { :git => "https://github.com/398967541/WQSZuJian.git", :tag => s.version}
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
