@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   #s.source_files  = "Classes", "Classes/**/*.{h,m}"
   s.source_files  = 'ZuJianFile/*'
-  # s.public_header_files = "ZuJianFile/CTMediator.h"
+  # s.public_header_files = "ZuJianFile/ZuJian.h"
 
   s.requires_arc = true
 
