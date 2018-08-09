@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "WQSZuJian"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "简介"
 
   s.description  = <<-DESC
@@ -34,5 +34,6 @@ Pod::Spec.new do |s|
 
   s.requires_arc = true
 
+  s.frameworks = "Foundation","UIKit"
 
 end
